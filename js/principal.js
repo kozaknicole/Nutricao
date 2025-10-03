@@ -6,4 +6,4 @@ console.log(titulo.textContent);
 
 titulo.textContent = "Aparecida Nutricionista";
 
-var paciente=document.querySelector("#primeiro-paciente")
+var paciente=document.querySelector("#primeiro-paciente");
